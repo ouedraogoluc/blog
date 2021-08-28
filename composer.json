@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/darlog",
+    "authors": [
+        {
+            "name": "Papa bassirou ndiaye",
+            "email": "pbnlgk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
